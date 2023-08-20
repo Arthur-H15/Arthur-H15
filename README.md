@@ -1,5 +1,17 @@
 ## Oiii! Eu sou a Arthur Henrique
-
+Sou um profissional de Tecnologia da Informação com ampla experiência no desenvolvimento de aplicações web. Meu domínio inclui HTML, CSS, JavaScript e TypeScript, com especialização em frameworks populares como Angular, Node.js e NestJS. Sou habilidoso em virtualização de containers com Docker e Kubernetes, e também tenho expertise em implementação de sistemas de mensageria utilizando Apache Kafka. Trabalhei com bancos de dados como MySQL, PostgreSQL e Redis, além de possuir habilidades em edição de imagem com o Photoshop. Minha paixão pela tecnologia e minha dedicação em acompanhar as últimas tendências me mantêm atualizado no setor. Sou um solucionador de problemas, colaborativo e estou pronto para enfrentar desafios em projetos inovadores. Estou animado para contribuir e impulsionar o sucesso em sua equipe.
+Habilidades profissionais: 
+- Linguagens de programação: JavaScript, Typescript, Python, 
+- Web: HTML5, XHTML, XML, CSS3, JSON. 
+- Controle de versão: Git. 
+- Bancos de dados: MySQL ,PostgreSQL e 
+Redis. 
+- Edição de imagem: Photoshop 
+- Frameworks/Librarys: Express, Angular,NestJs 
+- virtualização : Docker 
+- orquestrador : kubernetes 
+-mensageria : apache-kafka
+- Sistemas operacionais: Linux, Windows, Ubuntu
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
  <div>
